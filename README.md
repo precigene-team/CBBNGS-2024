@@ -9,6 +9,7 @@
 3. Downstream Analysis [Slide&Script](03_Downstream/)
    - Variant calling and Filtering [Video](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6)
    - Variant annotation [Video](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8)
+   - Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m4pCPuewYHemnWwn31kOEDHt0rB5hOgk?usp=drive_link)
 4. Discussion
 
 ## Other Materials
